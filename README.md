@@ -45,10 +45,9 @@ git remote rm r1remote
 <h3>Copying a GitHub Repository to Your Local Computer</h3>
 https://www.youtube.com/watch?v=O72FWNeO-xY
 
-<strong>
-clone repo: git clone [URL]<br/>
-list files: ls<br/>
-change directory: cd<br/>
-check remotes: git remote -v<br/>
-add origin: git remote add origin [URL]<br/>
-</strong>
+
+clone repo: <strong>git clone [URL]</strong><br/>
+list files: <strong>ls</strong><br/>
+change directory: <strong>cd</strong><br/>
+check remotes: <strong>git remote -v</strong><br/>
+add origin: <strong>git remote add origin [URL]</strong>
